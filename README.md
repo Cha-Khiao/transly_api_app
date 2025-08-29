@@ -230,6 +230,16 @@ class NavigationHelper {
   }
 }
 ```
+
+---
+
+## 🚀 การติดตั้งและรัน
+
+### 📋 ความต้องการของระบบ
+
+- **Flutter SDK**: version 3.0.0 ขึ้นไป
+- **IDE**: Android Studio หรือ Visual Studio Code
+
 ### 📦 ขั้นตอนการติดตั้ง
 
 ```bash
@@ -254,15 +264,6 @@ flutter run
 ## 📸 ตัวอย่างภาพหน้าจอ (Screenshots)
 
 ![screenshots-2](./assets/screenshots/screenshot2.png)
-
----
-
-## 🚀 การติดตั้งและรัน
-
-### 📋 ความต้องการของระบบ
-
-- **Flutter SDK**: version 3.0.0 ขึ้นไป
-- **IDE**: Android Studio หรือ Visual Studio Code
 
 ---
 

@@ -230,6 +230,20 @@ class NavigationHelper {
   }
 }
 ```
+### 📦 ขั้นตอนการติดตั้ง
+
+```bash
+# 1. Clone a repository
+git clone [https://github.com/][YOUR_USERNAME]/transly-api-app.git
+
+cd transly-api-app
+
+# 2. ติดตั้ง Dependencies ทั้งหมด
+flutter pub get
+
+# 3. รันแอปพลิเคชัน
+flutter run
+```
 
 ---
 
@@ -249,20 +263,6 @@ class NavigationHelper {
 
 - **Flutter SDK**: version 3.0.0 ขึ้นไป
 - **IDE**: Android Studio หรือ Visual Studio Code
-
-### 📦 ขั้นตอนการติดตั้ง
-
-```bash
-# 1. Clone a repository
-git clone [https://github.com/](https://github.com/)[YOUR_USERNAME]/transly-app.git
-cd transly-app
-
-# 2. ติดตั้ง Dependencies ทั้งหมด
-flutter pub get
-
-# 3. รันแอปพลิเคชัน
-flutter run
-```
 
 ---
 
